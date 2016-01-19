@@ -1,9 +1,9 @@
 {
-    "name": "ltp/ltp-theme",
+    "name": "magento/lean-theme",
     "description": "first theme customization on magento.",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
-        "ltp/ltp-theme": "100.0.*",
+        "magento/lean-theme": "100.0.*",
         "magento/framework": "100.0.*"
     },
     "type": "magento2-theme",
